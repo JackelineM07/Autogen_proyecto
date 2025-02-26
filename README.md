@@ -16,5 +16,8 @@ While this is a simple implementation, it opens up exciting possibilities for AI
 ## 🚀 Installation & Usage  
 1. **Clone this repository**  
    ```sh
-   git clone https://github.com/yourusername/autogen-test.git
+   git clone https://github.com/JackelineM07/Autogen_proyecto.git
    cd autogen-test
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
